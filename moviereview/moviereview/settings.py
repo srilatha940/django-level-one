@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-pi=cjw&23m&s-=6*z(whw_qjd$h(tf3bn-z#06y--_uu4$yw3&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [moviereview-g4wn.onrender.com]
+ALLOWED_HOSTS = []
 
 
 # Application definition
